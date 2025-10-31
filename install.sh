@@ -68,7 +68,6 @@ check_token() {
     echo -e "${GREEN}Buy dulu Gih Ke NDy - OffiCial${NC}"
     echo -e "${YELLOW}TELEGRAM : @NDySupport${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©NDySupport${NC}"
     exit 1
   fi
   clear
