@@ -12,8 +12,8 @@ display_welcome() {
   echo -e ""
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
-  echo -e "${WHITE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${WHITE}[+]                  © NDy - OffiCial                [+]${NC}"
+  echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
+  echo -e "${BLUE}[+]                  © NDy - OffiCial                [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -56,7 +56,7 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY ZERO DEVELOPER           [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY NDY - OFFICIAL           [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
@@ -79,7 +79,7 @@ install_theme() {
   while true; do
     echo -e "                                                       "
     echo -e "${BLUE}[+] =============================================== [+]${NC}"
-    echo -e "${WHITE}[+]                   SELECT THEME                  [+]${NC}"
+    echo -e "${BLUE}[+]                   SELECT THEME                  [+]${NC}"
     echo -e "${BLUE}[+] =============================================== [+]${NC}"
     echo -e "                                                       "
     echo -e "PILIH THEME YANG INGIN DI INSTALL"
